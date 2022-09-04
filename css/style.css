@@ -9,5 +9,18 @@
 }
 .buy-now-button {
     background-color: #FF136F;
-    color: #ffffff
+    color: #ffffff;
+    font-size: 1.1rem;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    box-shadow: 5px 5px 10px lightgrey;
 }
