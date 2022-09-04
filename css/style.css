@@ -1,0 +1,13 @@
+.container {
+    margin-bottom: 100px;
+}
+.pink-bg {
+    background-color: #fceae8;
+}
+.price {
+    color: #FF136F;
+}
+.buy-now-button {
+    background-color: #FF136F;
+    color: #ffffff
+}
