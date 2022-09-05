@@ -41,3 +41,7 @@
 #subscribe h5 {
     color: gray;
 }
+
+input[type=email]::placeholder {
+    color: darkgray
+}
