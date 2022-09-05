@@ -7,8 +7,14 @@
 .price {
     color: #FF136F;
 }
+.btn {
+    border: none;
+}
+.btn:hover {
+    color: whitesmoke;
+}
 .buy-now-button {
-    background-color: #FF136F;
+    background-image: linear-gradient(#FF589B 0%, #FF136F 100%);
     color: #ffffff;
     font-size: 1.1rem;
 }
@@ -23,4 +29,15 @@
     margin-right: 5px;
     margin-left: 5px;
     box-shadow: 5px 5px 10px lightgrey;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+#subscribe {
+    height: 400px;
+}
+#subscribe h5 {
+    color: gray;
 }
